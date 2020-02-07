@@ -5,3 +5,4 @@ Rencana Konten Ikbal
 -Javacript
  * ES6
  * Framework Javascript
+-Struktur Data Dasar
