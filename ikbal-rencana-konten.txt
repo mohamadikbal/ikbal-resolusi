@@ -1,0 +1,7 @@
+Rencana Konten Ikbal
+
+-CSS
+-HTML
+-Javacript
+ * ES6
+ * Framework Javascript
