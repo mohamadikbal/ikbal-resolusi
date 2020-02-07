@@ -5,4 +5,8 @@ Rencana Konten Ikbal
 -Javacript
  * ES6
  * Framework Javascript
+  -Vue
 -Struktur Data Dasar
+-PHP Framework
+ *Laravel
+-Phyton
